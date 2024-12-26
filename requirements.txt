@@ -1,0 +1,9 @@
+Flask==2.3.3
+flask-cors==3.0.10
+os==0.1.4
+textwrap3==0.9.2
+langchain==0.0.324
+langchain-community==0.0.2
+langchain-experimental==0.0.1
+langchain-huggingface==0.0.3
+faiss-cpu==1.7.4
